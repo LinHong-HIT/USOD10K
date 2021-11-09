@@ -1,13 +1,14 @@
 # UVST: Underwater Visual Saliency Detection with Transformers
 
 
-Source code and dataset for our paper “UVST: Underwater Visual Saliency Detection with Transformers” by Lin Hong,  Xin Wang, and Gan Zhang.
+Source code and dataset for our paper “Underwater Salient Object Detection with Transformers” by Lin Hong,  Xin Wang, and Gan Zhang.
 
 Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 
 ![](UVST_CVPR.png)
 
 ## Requirement
+1. Python 3.8
 1. Pytorch 1.6.0
 2. Torchvison 0.7.0
 
