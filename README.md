@@ -1,4 +1,4 @@
-# UVST: Underwater Visual Saliency Detection with Transformers
+# UVST: Underwater Salient Object Detection with Transformers
 
 
 Source code and dataset for our paper “Underwater Salient Object Detection with Transformers” by Lin Hong,  Xin Wang, and Gan Zhang.
