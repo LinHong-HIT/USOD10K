@@ -15,7 +15,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ### Our source code will released soon. !!!!
 
 ## USOD10K dataset
-USOD10K is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
+[USOD10K](https://pan.baidu.com/s/1XVX_3bbzLwqVjuXFp8HnIw) fetch code: [7n7b]  is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
 Its folder looks like this:
 
