@@ -32,7 +32,7 @@ Its folder looks like this:
    |   |-- |-- USOD10K-TE-depth
 
 ````
-We retrained 18 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 750 hours to retarin these methods. 
+We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 750 hours to retarin these methods. 
 
 ### Saliency Maps for Comparison.
 ![](qualitative_eva.png)
