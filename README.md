@@ -26,10 +26,12 @@ For practical training and reliable test results of deep methods on the USOD10K 
    |   |-- |-- USOD10K-TR-RGB
    |   |-- |-- USOD10K-TR-GT
    |   |-- |-- USOD10K-TR-depth
+   |   |-- |-- USOD10K-TR-Boundary
    |   |-- USOD10K-Val
    |   |-- |-- USOD10K-Val-RGB
    |   |-- |-- USOD10K-Val-GT
    |   |-- |-- USOD10K-Val-depth
+   |   |-- |-- USOD10K-Val-Boundary
    |   |-- USOD10K-TE
    |   |-- |-- USOD10K-TE-RGB
    |   |-- |-- USOD10K-TE-GT
