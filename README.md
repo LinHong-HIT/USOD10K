@@ -15,7 +15,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ### Our source code will released soon. !!!!
 
 ## USOD10K dataset
-[USOD10K]([https://pan.baidu.com/s/15sXImJJooDfPF-0cTA6kIg]) fetch code: [ceic]  is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
+[USOD10K](https://pan.baidu.com/s/15sXImJJooDfPF-0cTA6kIg) fetch code: [ceic]  is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
 For practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
 
