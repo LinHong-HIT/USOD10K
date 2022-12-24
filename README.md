@@ -5,15 +5,6 @@ Source code and dataset for our paper “USOD10K: A New Benchmark Dataset for Un
 
 Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 
-![](TC-USOD.png)
-
-## Requirement
-1. Python 3.8
-1. Pytorch 1.6.0
-2. Torchvison 0.7.0
-
-### Our source code will released soon. !!!!
-
 ## USOD10K dataset
 [USOD10K](https://pan.baidu.com/s/15sXImJJooDfPF-0cTA6kIg) fetch code: [ceic]  is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
@@ -37,9 +28,20 @@ For practical training and reliable test results of deep methods on the USOD10K 
    |   |-- |-- USOD10K-TE-GT
    |   |-- |-- USOD10K-TE-depth
 ````
+## TC-USOD baseline
+![](TC-USOD.png)
+
+### Requirement
+1. Python 3.8
+1. Pytorch 1.6.0
+2. Torchvison 0.7.0
+
+### Our source code will released soon. !!!!
+
+
 We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
 
-### Saliency Maps for Comparison.
+### Benchmark.
 ![](qualitative_eva.png)
 
 ## Acknowledgement
