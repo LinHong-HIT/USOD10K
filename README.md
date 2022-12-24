@@ -36,7 +36,6 @@ For practical training and reliable test results of deep methods on the USOD10K 
    |   |-- |-- USOD10K-TE-RGB
    |   |-- |-- USOD10K-TE-GT
    |   |-- |-- USOD10K-TE-depth
-
 ````
 We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
 
