@@ -30,7 +30,6 @@ For practical training and reliable test results of deep methods on the USOD10K 
 ````
 ## TC-USOD baseline
 ![](TC-USOD.png)
-
 ### Requirement
 1. Python 3.8
 1. Pytorch 1.6.0
@@ -39,9 +38,9 @@ For practical training and reliable test results of deep methods on the USOD10K 
 ### Our source code will released soon. !!!!
 
 
+## Benchmark
 We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
 
-### Benchmark.
 ![](qualitative_eva.png)
 
 ## Acknowledgement
