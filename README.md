@@ -17,7 +17,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ## USOD10K dataset
 [USOD10K](https://pan.baidu.com/s/1XVX_3bbzLwqVjuXFp8HnIw) fetch code: [7n7b]  is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
-Its folder looks like this:
+For practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
 
 ````
    Data
@@ -26,13 +26,17 @@ Its folder looks like this:
    |   |-- |-- USOD10K-TR-RGB
    |   |-- |-- USOD10K-TR-GT
    |   |-- |-- USOD10K-TR-depth
+   |   |-- USOD10K-Val
+   |   |-- |-- USOD10K-Val-RGB
+   |   |-- |-- USOD10K-Val-GT
+   |   |-- |-- USOD10K-Val-depth
    |   |-- USOD10K-TE
    |   |-- |-- USOD10K-TE-RGB
    |   |-- |-- USOD10K-TE-GT
    |   |-- |-- USOD10K-TE-depth
 
 ````
-We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 750 hours to retarin these methods. 
+We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
 
 ### Saliency Maps for Comparison.
 ![](qualitative_eva.png)
