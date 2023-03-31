@@ -1,7 +1,7 @@
 # USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection
 
 
-Source code and dataset for our paper “USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection （IEEE T-IP）” by Lin Hong,  Xin Wang, Gan Zhang and Ming Zhao.
+Source code and dataset for our paper “USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection （IEEE T-IP 2023）” by Lin Hong,  Xin Wang, Gan Zhang and Ming Zhao.
 
 Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 
