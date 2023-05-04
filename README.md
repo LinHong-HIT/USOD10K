@@ -40,7 +40,7 @@ For practical training and reliable test results of deep methods on the USOD10K 
 
 ## Benchmark
 We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
-Predicted saliency maps[USOD_predicts](https://pan.baidu.com/s/1E4_lvLds-J7ikbbGNfLZiQ?pwd=q75n) fetch code: [q75n]  
+Predicted saliency maps [USOD_predicts](https://pan.baidu.com/s/1E4_lvLds-J7ikbbGNfLZiQ?pwd=q75n) fetch code: [q75n]  
 
 ## Acknowledgement
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT bachbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
