@@ -43,6 +43,8 @@ We retrained 35 SOTA methods, most of the deep methods are proposed in the year 
 
 Retrained model are available [benchmark_pth](https://pan.baidu.com/s/1KeTrgPXl-UIz5RQR7VW6Nw?pwd=brjo) fetch code: [brjo]
 
+Predicted saliency maps [USOD10K_predicts](https://pan.baidu.com/s/1t_fJg6luFDBD2T4H0WBY_Q?pwd=62sc) fetch code: [62sc]
+
 Predicted saliency maps [USOD_predicts](https://pan.baidu.com/s/1E4_lvLds-J7ikbbGNfLZiQ?pwd=q75n) fetch code: [q75n]  
 
 ## Acknowledgement
