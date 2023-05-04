@@ -39,8 +39,10 @@ For practical training and reliable test results of deep methods on the USOD10K 
 
 
 ## Benchmark
-We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods. 
+We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retarin these methods.
+
 Retrained model are available [benchmark_pth](https://pan.baidu.com/s/1KeTrgPXl-UIz5RQR7VW6Nw?pwd=brjo) fetch code: [brjo]
+
 Predicted saliency maps [USOD_predicts](https://pan.baidu.com/s/1E4_lvLds-J7ikbbGNfLZiQ?pwd=q75n) fetch code: [q75n]  
 
 ## Acknowledgement
