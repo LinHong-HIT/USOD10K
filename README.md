@@ -6,7 +6,7 @@ Source code and dataset for our paper “USOD10K: A New Benchmark Dataset for Un
 Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 
 ## USOD10K dataset
-Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) fetch code: [yom5]  &&&  Google drive:[USOD10K](https://drive.google.com/drive/folders/1ckfPAiMHg0cs9ShV835JV_93jlEnTrKG?usp=share_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
+Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) fetch code: [yom5]  &&&  Google drive:[USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
 ## I will try my best to upload all the code and predicted saliency maps this month (July), please give me some patience. =:)
 
