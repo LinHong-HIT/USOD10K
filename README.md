@@ -37,9 +37,6 @@ For practical training and reliable test results of deep methods on the USOD10K 
 1. Pytorch 1.6.0
 2. Torchvison 0.7.0
 
-### Our source code will released soon. !!!!
-
-
 ## Benchmark
 We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retrain these methods.
 
