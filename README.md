@@ -7,9 +7,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ## USOD10K dataset
 Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) fetch code: [yom5]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
-## I will try my best to upload all the code and predicted saliency maps this month (July), please give me some patience. =:)
-
-For practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
+Note: for practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
 
 ````
    Data
@@ -33,11 +31,12 @@ For practical training and reliable test results of deep methods on the USOD10K 
 ![](TC-USOD.png)
 ### Requirement
 1. Python 3.8
-1. Pytorch 1.6.0
-2. Torchvison 0.7.0
+2. Pytorch 1.6.0
+3. Torchvison 0.7.0
+   
 
 ## Benchmark
-We retrained 35 SOTA methods, most of the deep methods are proposed in the year of 2020 and 2021. It takes us about 1750 hours to retrain these methods.
+We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep methods are proposed in the year of 2020, 2021, and 2022. It takes us about 1750 hours to retrain these methods.
 
 Retrained model are available [benchmark_pth](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae]
 
