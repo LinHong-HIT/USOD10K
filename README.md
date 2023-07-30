@@ -31,7 +31,7 @@ Note: for practical training and reliable test results of deep methods on the US
 ## TC-USOD baseline
 The TC-USOD baseline is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
 
-You create a folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir checkpoint) and put the [TC-USOD baseline](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae] in it to generate the predictions. Or you can retrain with the available USOD10K dataset to get your own model. 
+You create a folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir checkpoint) and put the [TC-USOD baseline](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae] in it to generate the predictions (you can find them in the TC_USOD/preds/USOD10K). Or you can retrain with the available USOD10K dataset to get your own model. 
 
 ![](TC-USOD.png)
 ### Requirement
