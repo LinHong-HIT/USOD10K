@@ -7,7 +7,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ## USOD10K dataset
 Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) fetch code: [yom5]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
-![avatar](https://github.com/nnizhang/VST/blob/main/Network.png)
+![avatar](https://github.com/LinHong-HIT/VST/USOD10K/main/Network.png)
 Note: for practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set, and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
 
 ````
