@@ -47,7 +47,8 @@ Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWF
 [Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) fetch code: [kivt]  
 
 ## Bibliography entry:
-
+If you think our work is helpful, please cite
+```
 @ARTICLE{10102831,
   author={Hong, Lin and Wang, Xin and Zhang, Gan and Zhao, Ming},
   journal={IEEE Transactions on Image Processing}, 
@@ -57,7 +58,7 @@ Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWF
   number={},
   pages={1-1},
   doi={10.1109/TIP.2023.3266163}}
-
+```
 
 ## Acknowledgement
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT backbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
