@@ -1,0 +1,1 @@
+data/USOD10K/USOD10K_TE (USOD10K): 0.0201 mae || 0.9236 max-fm || 0.9098 mean-fm || 0.9683 max-Emeasure || 0.9634 mean-Emeasure || 0.9215 S-measure || 0.9170 AP || 0.9692 AUC.
