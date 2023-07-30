@@ -41,13 +41,13 @@ The TC-USOD baseline is simple but strong, it adopts a hybrid architecture based
 We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep methods are proposed in the years 2020, 2021, and 2022. It takes us about 1750 hours to retrain these methods. Here is the qualitative evaluation of the 35 SOTA methods and the TC-USOD baseline.
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/4ac87c771709fc62ba0bce219cdaec2bee176c0d/qualitative_eva.png)
 
-Retrained models are available [benchmark_pth](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae]
+(1) Retrained models are available [benchmark_pth](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae]
 
-Predicted saliency maps [USOD10K_predictions](https://pan.baidu.com/s/16tirqN1X5xXODzIZbSzCRA?pwd=q13c) fetch code: [q13c]
+(2) Predicted saliency maps [USOD10K_predictions](https://pan.baidu.com/s/16tirqN1X5xXODzIZbSzCRA?pwd=q13c) fetch code: [q13c]
 
-Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWFXxBbJ0JayA) fetch code: [niwo]  
+(3) Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWFXxBbJ0JayA) fetch code: [niwo]  
 
-[Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) fetch code: [kivt]  
+(4) [Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) fetch code: [kivt]  
 
 ## Bibliography entry:
 If you think our work is helpful, please cite
@@ -65,18 +65,20 @@ If you think our work is helpful, please cite
 
 ## SOD dataset
 
-NJUD [[baidu pan](https://pan.baidu.com/s/1ywIJV_C0lG1KZNFow87bQQ) fetch code: 7mrn | [Google drive](https://drive.google.com/file/d/19rdcNsuDE6bRD58bruqCXPDhoopTMME4/view?usp=sharing)]  
-NLPR [[baidu pan](https://pan.baidu.com/s/1G3ec34XV7oQboY8R9FPVDw) fetch code: tqqm | [Google drive](https://drive.google.com/file/d/1NlJqeauFt6NlzNSHL9iQofzm8XWLmeg9/view?usp=sharing)]  
-DUTLF-Depth [[baidu pan](https://pan.baidu.com/s/1BZepaCfo2BsuvBczJKhN4Q) fetch code: 9jac | [Google drive](https://drive.google.com/file/d/1FcS2cBrIj-tBmEgqQzqp-arKIA6UjsLd/view?usp=sharing)]  
-STERE [[baidu pan](https://pan.baidu.com/s/16ros8tHMxy9YwfqBZJf1zQ) fetch code: 93hl | [Google drive](https://drive.google.com/file/d/1cVw3tM3xRBxrvO3TZ-oX5tmnPPMIrNbJ/view?usp=sharing)]  
-LFSD [[baidu pan](https://pan.baidu.com/s/1sSjFX45DIcNyExsA_lpybQ) fetch code: l2g4 | [Google drive](https://drive.google.com/file/d/1KFZ53EiIuCxMaf6nlFwhfOeBqOJ7BldF/view?usp=sharing)]  
-RGBD135 [[baidu pan](https://pan.baidu.com/s/1NQiTSYIs23Cl4TCf7Edp0A) fetch code: apzb | [Google drive](https://drive.google.com/file/d/1kYClZ_17EdFviJ6SiW0_ghqudUCr4r2F/view?usp=sharing)]  
-SSD [[baidu pan](https://pan.baidu.com/s/1Ihx001o1MUYaUtbBQH4TnQ) fetch code: j3v0 | [Google drive](https://drive.google.com/file/d/1rD0QKEHdUSE-Cpijgxv4BlPUMRQ6Q69l/view?usp=sharing)]  
-SIP [[baidu pan](https://pan.baidu.com/s/1qvpfXrPYT94M6mD0pv3-SQ) fetch code: q0j5 | [Google drive](https://drive.google.com/file/d/1Ruv0oLVP8QjrN3keOtdCjSiX4mh7bBVN/view?usp=sharing)]  
-[ReDWeb-S](https://github.com/nnizhang/SMAC)
+(1) NJUD [[baidu pan](https://pan.baidu.com/s/1ywIJV_C0lG1KZNFow87bQQ) fetch code: 7mrn | [Google drive](https://drive.google.com/file/d/19rdcNsuDE6bRD58bruqCXPDhoopTMME4/view?usp=sharing)]  
+(2) NLPR [[baidu pan](https://pan.baidu.com/s/1G3ec34XV7oQboY8R9FPVDw) fetch code: tqqm | [Google drive](https://drive.google.com/file/d/1NlJqeauFt6NlzNSHL9iQofzm8XWLmeg9/view?usp=sharing)]  
+(3) DUTLF-Depth [[baidu pan](https://pan.baidu.com/s/1BZepaCfo2BsuvBczJKhN4Q) fetch code: 9jac | [Google drive](https://drive.google.com/file/d/1FcS2cBrIj-tBmEgqQzqp-arKIA6UjsLd/view?usp=sharing)]  
+(4) STERE [[baidu pan](https://pan.baidu.com/s/16ros8tHMxy9YwfqBZJf1zQ) fetch code: 93hl | [Google drive](https://drive.google.com/file/d/1cVw3tM3xRBxrvO3TZ-oX5tmnPPMIrNbJ/view?usp=sharing)]  
+(5) LFSD [[baidu pan](https://pan.baidu.com/s/1sSjFX45DIcNyExsA_lpybQ) fetch code: l2g4 | [Google drive](https://drive.google.com/file/d/1KFZ53EiIuCxMaf6nlFwhfOeBqOJ7BldF/view?usp=sharing)]  
+(6) RGBD135 [[baidu pan](https://pan.baidu.com/s/1NQiTSYIs23Cl4TCf7Edp0A) fetch code: apzb | [Google drive](https://drive.google.com/file/d/1kYClZ_17EdFviJ6SiW0_ghqudUCr4r2F/view?usp=sharing)]  
+(7) SSD [[baidu pan](https://pan.baidu.com/s/1Ihx001o1MUYaUtbBQH4TnQ) fetch code: j3v0 | [Google drive](https://drive.google.com/file/d/1rD0QKEHdUSE-Cpijgxv4BlPUMRQ6Q69l/view?usp=sharing)]  
+(8) SIP [[baidu pan](https://pan.baidu.com/s/1qvpfXrPYT94M6mD0pv3-SQ) fetch code: q0j5 | [Google drive](https://drive.google.com/file/d/1Ruv0oLVP8QjrN3keOtdCjSiX4mh7bBVN/view?usp=sharing)]  
 
 ## Acknowledgement
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT backbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
+
+## To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods, and highlight some promising research directions for this young but challenging field.
+We hope our work will boost the development of USOD research. However, as a young research field, USOD is still far from being solved, leaving large room for further improvement. 
 
 
 
