@@ -77,8 +77,8 @@ If you think our work is helpful, please cite
 ## Acknowledgement
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT backbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
 
-## To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods, and highlight some promising research directions for this young but challenging field.
-We hope our work will boost the development of USOD research. However, as a young research field, USOD is still far from being solved, leaving large room for further improvement. 
+## Note to active participants
+To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods, and highlight some promising research directions for this young but challenging field. We hope our work will boost the development of USOD research. However, as a young research field, USOD is still far from being solved, leaving large room for further improvement !!! 
 
 
 
