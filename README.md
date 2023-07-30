@@ -29,12 +29,12 @@ Note: for practical training and reliable test results of deep methods on the US
    |   |-- |-- USOD10K-TE-depth
 ````
 ## TC-USOD baseline
+The TC-USOD baseline is a simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. You create folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir checkpoint), and put the TC-USOD baseline in it to generate the perdictions. Or you can retrain with the available USOD10K dataset to get you own model. 
 ![](TC-USOD.png)
 ### Requirement
 1. Python 3.8
 2. Pytorch 1.6.0
 3. Torchvison 0.7.0
-   
 
 ## Benchmark
 We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep methods are proposed in the year of 2020, 2021, and 2022. It takes us about 1750 hours to retrain these methods.
