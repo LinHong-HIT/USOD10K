@@ -52,7 +52,7 @@ We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep met
 
 (4) [Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) **fetch code**: [kivt]  
 
-## Bibliography entry:
+## Bibliography entry
 If you think our work is helpful, please cite
 ```
 @ARTICLE{10102831,
