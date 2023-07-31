@@ -5,7 +5,7 @@ Source code and dataset for our paper “**USOD10K: A New Benchmark Dataset for 
 Created by **Lin Hong**, email: 20B953023@stu.hit.edu.cn
 
 ## USOD10K dataset
-Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) fetch code: [yom5]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
+Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/11icEoJRqKmStkUkEtRgS4w) **fetch code**: [yom5]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
 
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/ef4fc30f7957f3255e375b608191175454cf4658/dataset_img.png)
 Note: for practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set (**training set and validation set are merged in TC-USOD baseline**), and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
@@ -31,7 +31,7 @@ Note: for practical training and reliable test results of deep methods on the US
 ## TC-USOD baseline
 The TC-USOD baseline is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
 
-You create a folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir checkpoint) and put the [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) fetch code: [ie0k] in it to generate the predictions (you can find them in the TC_USOD/preds/USOD10K). Of course, you can retrain this method with the available USOD10K dataset to get your own model. 
+You create a folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir checkpoint) and put the [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) **fetch code**: [ie0k] in it to generate the predictions (you can find them in the TC_USOD/preds/USOD10K). Of course, you can retrain this method with the available USOD10K dataset to get your own model. 
 
 ![](TC-USOD.png)
 ### Requirement
@@ -43,13 +43,13 @@ You create a folder named checkpoint under the TU_USOD folder (cd TC_USOD->mkdir
 We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep methods are proposed in the years 2020, 2021, and 2022. It takes us about 1750 hours to retrain these methods. Here is the qualitative evaluation of the 35 SOTA methods and the TC-USOD baseline.
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/4ac87c771709fc62ba0bce219cdaec2bee176c0d/qualitative_eva.png)
 
-(1) Retrained models are available [benchmark_pth](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) fetch code: [sdae]
+(1) Retrained models are available [benchmark_pth](https://pan.baidu.com/s/1N4bMHCsvLrHckgv4RFODyQ) **fetch code**: [sdae]
 
-(2) Predicted saliency maps [USOD10K_predictions](https://pan.baidu.com/s/16tirqN1X5xXODzIZbSzCRA?pwd=q13c) fetch code: [q13c]
+(2) Predicted saliency maps [USOD10K_predictions](https://pan.baidu.com/s/16tirqN1X5xXODzIZbSzCRA?pwd=q13c) **fetch code**: [q13c]
 
-(3) Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWFXxBbJ0JayA) fetch code: [niwo]  
+(3) Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1pdFUEbKMllWFXxBbJ0JayA) **fetch code**: [niwo]  
 
-(4) [Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) fetch code: [kivt]  
+(4) [Evaluation results](https://pan.baidu.com/s/1Z4XdgNpcwWi7UKyDnoZqdQ) **fetch code**: [kivt]  
 
 ## Bibliography entry:
 If you think our work is helpful, please cite
