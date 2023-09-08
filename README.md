@@ -45,8 +45,11 @@ We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep met
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/4ac87c771709fc62ba0bce219cdaec2bee176c0d/qualitative_eva.png)
 
 (1) Retrained models are available [benchmark_pth](https://pan.baidu.com/s/1VXyNHxy5Iy5GYYBCh_2thg) **fetch code**: [usod]
+
 (2) Predicted saliency maps [USOD10K_predictions](https://pan.baidu.com/s/1EpnE07lgamyaUIUZWdccqA) **fetch code**: [usod]
+
 (3) Predicted saliency maps [USOD_predictions](https://pan.baidu.com/s/1cnmMZ0JSshssm2jc9p2BdA ) **fetch code**: [usod]  
+
 (4) [Evaluation results](https://pan.baidu.com/s/1AL4WQeFh1KrD0jj9JW182g) **fetch code**: [usod]  
 
 ## Bibliography entry
