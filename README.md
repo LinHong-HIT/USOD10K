@@ -2,7 +2,7 @@
 
 Source code and dataset for our paper “**USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection paper**” by Lin Hong,  Xin Wang, Gan Zhang, and Ming Zhao. [IEEE TIP 2023](https://ieeexplore.ieee.org/document/10102831)
 
-Created by **Lin Hong**, email: 20B953023@stu.hit.edu.cn
+Created by **Lin Hong**, email: 20B953023@stu.hit.edu.cn or lin.hong@tum.de
 
 ## USOD10K dataset
 Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing) is the first large-scale dataset for Underwater Salient Object Detection (USOD). It is free for academic research, not for any commercial purposes.
