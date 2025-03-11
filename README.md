@@ -5,7 +5,7 @@ Source code and dataset for our paper “**USOD10K: A New Benchmark Dataset for 
 Created by **Lin Hong**, email: eelinhong@ust.hk or lin.hong@tum.de
 
 ## USOD10K dataset
-Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good]  Or  Google drive: [USOD10K](https://drive.google.com/file/d/1fFKhuuR2MEEjBWRtjFdMZCoRxLrQqUK1/view?usp=drive_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). **It is free for academic research, not for any commercial purposes**.
+Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good] Or Google drive: [USOD10K](https://drive.google.com/file/d/1fFKhuuR2MEEjBWRtjFdMZCoRxLrQqUK1/view?usp=drive_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). **It is free for academic research, not for any commercial purposes**.
 
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/ef4fc30f7957f3255e375b608191175454cf4658/dataset_img.png)
 Note: for practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set (**training set and validation set are merged in TC-USOD baseline**), and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
@@ -29,7 +29,7 @@ Note: for practical training and reliable test results of deep methods on the US
    |   |-- |-- USOD10K-TE-depth
 ````
 ## TC-USOD baseline
-The [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) **fetch code**: [ie0k] Or [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
+The [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) Baidu Netdisk with**fetch code**: [ie0k] Or Google drive[TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
 
 **How to generate predicted saliency maps by yourself or retrain this model:**
 You create a folder named checkpoint under the TC_USOD folder (cd TC_USOD->mkdir checkpoint) and put the download TC-USOD baseline model in it to generate the **predicted saliency maps** (You can also find them in the TC_USOD/preds/USOD10K in this project). Of course, you can retrain this method with the available USOD10K dataset to get your own model. 
