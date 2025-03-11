@@ -29,7 +29,7 @@ Note: for practical training and reliable test results of deep methods on the US
    |   |-- |-- USOD10K-TE-depth
 ````
 ## TC-USOD baseline
-The [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) Baidu Netdisk with**fetch code**: [ie0k] Or Google drive[TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
+The [TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) Baidu Netdisk with **fetch code**: [ie0k] Or Google drive[TC-USOD baseline](https://pan.baidu.com/s/1TwwaTcdmTiU2FHOC5xC3Vw) is simple but strong, it adopts a hybrid architecture based on an encoder-decoder design that leverages transformer and convolution as the basic computational building block of the encoder and decoder, respectively. 
 
 **How to generate predicted saliency maps by yourself or retrain this model:**
 You create a folder named checkpoint under the TC_USOD folder (cd TC_USOD->mkdir checkpoint) and put the download TC-USOD baseline model in it to generate the **predicted saliency maps** (You can also find them in the TC_USOD/preds/USOD10K in this project). Of course, you can retrain this method with the available USOD10K dataset to get your own model. 
@@ -82,7 +82,7 @@ If you think our work is helpful, please cite
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT backbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
 
 ## Note to active participants
-To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods in the paper, and highlight some promising research directions for this young but challenging field.
+To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods in the paper, and highlight several promising research directions for this young but challenging field.
 
 **We hope our work will boost the development of USOD research. However, as a young research field, USOD is still far from being solved, leaving large room for further improvement** !!! 
 
