@@ -208,7 +208,7 @@ def main(local_rank, num_gpus, args):
 
             if (local_rank == 0) and (whole_iter_num == args.train_steps):
                 torch.save(net.state_dict(),
-                           args.save_model_dir + 'UVST.pth')
+                           args.save_model_dir + 'TC_USOD.pth')
 
             if whole_iter_num == args.train_steps:
                 return 0
