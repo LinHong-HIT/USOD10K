@@ -41,7 +41,7 @@ You create a folder named checkpoint under the TC_USOD folder (cd TC_USOD->mkdir
 3. Torchvison 0.7.0
 
 ## Benchmark
-We retrained 35 SOTA methods in the fields of SOD and USOD, most of the deep methods are proposed in the years 2020, 2021, and 2022. It takes us about 1750 hours to retrain these methods. Here is the qualitative evaluation of the 35 SOTA methods and the proposed TC-USOD baseline.
+We retrained 35 SOTA methods in the fields of SOD and USOD. It takes us about 1750 hours to retrain these methods. Here is the qualitative evaluation of the 35 SOTA methods and the proposed TC-USOD baseline.
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/4ac87c771709fc62ba0bce219cdaec2bee176c0d/qualitative_eva.png)
 
 (1) **Retrained models** are available [BaiduNetdisk](https://pan.baidu.com/s/1VXyNHxy5Iy5GYYBCh_2thg) **fetch code**: [usod]  &&& [Googledriven](https://drive.google.com/file/d/1x_UhY7Ik6rFqkk4f5wNG97_CfC_DD7JZ/view?usp=drive_link) 
