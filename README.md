@@ -5,7 +5,7 @@ Source code and dataset for our paper “**USOD10K: A New Benchmark Dataset for 
 Created by **Lin Hong**, email: eelinhong@ust.hk or lin.hong@tum.de
 
 ## USOD10K dataset
-Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good] Or Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=drive_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). **It is free for academic research, not for any commercial purposes**.
+Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good] Or Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=drive_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). **USOD10K is free for academic research, not for any commercial purposes**.
 
 ![avatar](https://github.com/LinHong-HIT/USOD10K/blob/ef4fc30f7957f3255e375b608191175454cf4658/dataset_img.png)
 Note: for practical training and reliable test results of deep methods on the USOD10K dataset, there should be enough samples of each category on the training set, validation set (**training set and validation set are merged in TC-USOD baseline**), and test set. Hence we follow the USOD10K split of roughly 7:2:1. Its folder looks like this:
@@ -82,8 +82,6 @@ If you think our work is helpful, please cite
 We thank the authors of [VST](https://github.com/yitu-opensource/T2T-ViT) for providing T2T-ViT backbone, the authors of [DPT](https://github.com/isl-org/DPT) for providing us the method to get estimated depth maps of single underwater images in USOD10K, the authors of [SVAM-Net](http://www.roboticsproceedings.org/rss18/p048.pdf) for providing the [USOD](https://irvlab.cs.umn.edu/resources/usod-dataset) dataset, and [Zhao Zhang](https://github.com/zzhanghub/eval-co-sod) for providing the efficient evaluation tool.
 
 ## Note to active participants
-To spark research in the USOD research community, we discuss several potential use cases and applications of the USOD10K dataset and the USOD methods in the paper, and highlight several promising research directions for this young but challenging field.
-
 **We hope our work will boost the development of USOD research. However, as a young research field, USOD is still far from being solved, leaving large room for further improvement** !!! 
 
 
