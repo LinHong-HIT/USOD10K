@@ -4,6 +4,8 @@ Source code and dataset for our paper “**USOD10K: A New Benchmark Dataset for 
 
 Created by **Lin Hong**, email: eelinhong@ust.hk or lin.hong@tum.de
 
+**Note: The USOD dataset contains only 300 images. The USOD10K dataset includes most of the images from USOD but uses different annotation standards. If you find it difficult to access the USOD dataset or manage conflicting annotations, it is recommended to benchmark your methods on the USOD10K dataset.**
+
 ## USOD10K dataset
 Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good] Or Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=drive_link) is the first large-scale dataset for Underwater Salient Object Detection (USOD). **USOD10K is free for academic research, not for any commercial purposes**.
 
